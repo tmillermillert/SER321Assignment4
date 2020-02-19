@@ -1,0 +1,72 @@
+<project name="Ser321 Assign4 C++ Message GUI, sample build file."
+         default="targets" basedir="."
+         xmlns="antlib:org.apache.tools.ant">
+   <taskdef resource="cpptasks.tasks"/>
+   <taskdef resource="net/sf/antcontrib/antcontrib.properties"/>
+
+   <property name="src" value="./src" />
+   <property name="lib" value="./lib" />
+   <property name="src.cpp.dir" value="src"/>
+   <property name="obj.dir" value="obj"/>
+   <property name="dist.dir" value="bin"/>
+   <property name="lastfmkey" value="mylastfmkey"/>
+   <property environment="env"/>
+   <property name="userId" value="${env.USER}"/>
+
+   <target name="targets">
+     <echo message="targets are clean, prepare, build.sample, execute.sample, targets"/>
+     <echo message="execute manually with: ./bin/guiSample"/>
+   </target>
+
+   <target name="clean">
+     <delete dir="${obj.dir}" failonerror="false"/>
+     <delete dir="${dist.dir}" failonerror="false"/>
+   </target>
+
+   <target name="prepare">
+      <!-- Create the time stamp -->
+      <tstamp/>
+      <!-- Create the build directory structure used by compile -->
+      <echo message="home defined as: ${env.HOME}" />
+      <mkdir dir="${dist.dir}" />
+      <mkdir dir="${obj.dir}" />
+      <if>
+         <isset property="env.USERNAME"/>
+         <then>
+           <echo message="detected username is: ${env.USERNAME}"/>
+          </then>
+      <elseif>
+         <isset property="env.USER"/>
+         <then>
+            <echo message="detected user is: ${env.USER}"/>
+          </then>
+      </elseif>
+      </if>
+      <echo message="host name is: ${os.name}"/>
+      <echo message="host arch is: ${os.arch}"/>
+      <echo message="host version is: ${os.version}"/>
+      <echo message="base directory is: ${basedir}"/>
+   </target>
+
+   <target name="build.sample" depends="prepare">
+      <cc outtype="executable" subsystem="console"
+          outfile="${dist.dir}/guiSample"
+          objdir="${obj.dir}">
+	  <compilerarg value="-std=c++14"/>
+          <includepath>
+             <dirset dir="/" includes="usr/include,usr/local/include,usr/include/jsoncpp"/>
+          </includepath>
+          <libset dir="/usr/lib" libs="stdc++,fltk,fltk_images,curl,jsoncpp,pthread"/>
+          <libset dir="/usr/local/lib" libs="curlpp"/>
+          <fileset dir="${src.cpp.dir}/sample/" includes="MediaClientGui.cpp,MediaDescription.cpp, MediaLibrary.cpp,samplemain.cpp"/>
+      </cc>
+   </target>
+
+   <target name="execute.sample" depends="build.sample">
+     <echo message="./bin/guiSample ${userId} ${lastfmkey}"/>
+     <exec executable="./bin/guiSample">
+       <arg line= "${userId} ${lastfmkey}"/>
+     </exec>
+   </target>
+
+</project>

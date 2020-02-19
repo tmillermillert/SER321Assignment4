@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="gcc noversion nomachine -std=c++14 -c -I../../../../usr/include -I../../../../usr/include/jsoncpp -I../../../../usr/local/include">
+      <target file="MediaClientGui.o" lastModified="1703c8641f4">
+         <source file="../src/client/MediaClientGui.cpp" lastModified="1702da3a271"/>
+      </target>
+      <target file="MediaDescription.o" lastModified="1702d284de5">
+         <source file="../src/sample/MediaDescription.cpp" lastModified="16fe9a26660"/>
+      </target>
+      <target file="MusicLibrary.o" lastModified="1704c11b729">
+         <source file="../src/client/MusicLibrary.cpp" lastModified="1704c118d05"/>
+      </target>
+      <target file="Album.o" lastModified="1704bdfb6bd">
+         <source file="../src/client/Album.cpp" lastModified="1704bdc1275"/>
+      </target>
+      <target file="MusicBrowser.o" lastModified="1704c11b501">
+         <source file="../src/client/MusicBrowser.cpp" lastModified="1704c0e6981"/>
+      </target>
+      <target file="samplemain.o" lastModified="1702d285031">
+         <source file="../src/sample/samplemain.cpp" lastModified="16fedbbe640"/>
+      </target>
+      <target file="MediaLibrary.o" lastModified="1702d284cc5">
+         <source file="../src/sample/MediaLibrary.cpp" lastModified="16fecc2b160"/>
+      </target>
+      <target file="Track.o" lastModified="1704bdfb811">
+         <source file="../src/client/Track.cpp" lastModified="1704bdc942d"/>
+      </target>
+   </processor>
+</history>

@@ -1,0 +1,38 @@
+{
+    "ComeMonday":
+    {"title":"ComeMonday",
+     "author":"Jimmy Buffett",
+     "album":"Greatest Hits",
+     "genre":"Island",
+     "typeExt":"mp3"},
+    "Fins":
+    {"title":"Fins",
+     "author":"Jimmy Buffett",
+     "album":"Greatest Hits",
+     "genre":"Island",
+     "typeExt":"mp3"},
+    "ByeByeLove":
+    {"title":"ByeByeLove",
+     "author":"Everly Brothers",
+     "album":"Oldies",
+     "genre":"60s",
+     "typeExt":"mp3"},
+    "Crazy":
+    {"title":"Crazy",
+     "author":"Patsy Cline",
+     "album":"Love",
+     "genre":"60s",
+     "typeExt":"mp3"},
+    "OhPrettyWoman":
+    {"title":"OhPrettyWoman",
+     "author":"Roy Orbison",
+     "album":"Roy",
+     "genre":"60s",
+     "typeExt":"mp3"},
+    "OnlyTheLonely":
+    {"title":"OnlyTheLonely",
+     "author":"Roy Orbison",
+     "album":"Roy",
+     "genre":"60s",
+     "typeExt":"mp3"}
+}

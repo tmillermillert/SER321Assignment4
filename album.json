@@ -1,0 +1,368 @@
+[
+  {
+    "artistMTM" : "Drake",
+    "genresMTM" : [ "2018", "Hip-Hop", "rap", "rnb", "trap" ],
+    "imageMTM" : "https://lastfm.freetls.fastly.net/i/u/300x300/b42f8bf1987f3e1e4dc55d46d9c7bc3d.png",
+    "nameMTM" : "Scorpion",
+    "runTimeMTM" : "01:30:16",
+    "summaryMTM" : "Scorpion is the fifth studio album by Canadian rapper Drake. It was released on June 29, 2018 by Young Money Entertainment, Cash Money Records and Republic Records. Scorpion is a double album consisting of 25 tracks. Its \"A side\" is primarily a hip hop album, whilst its \"B side\" has been described as R&B and pop.\n\nThe album features guest appearances from Jay-Z and Ty Dolla Sign as well as posthumous appearances from Michael Jackson and Static Major <a href=\"http://www.last.fm/music/Drake/Scorpion\">Read more on Last.fm</a>.",
+    "tracksMTM" : 
+    [
+      {
+        "albumMTM" : "Scorpion",
+        "artistMTM" : "Drake",
+        "durationMTM" : 195,
+        "fileNameMTM" : "8 Out of 10.mp3",
+        "rankMTM" : "7",
+        "trackMTM" : "8 Out of 10"
+      },
+      {
+        "albumMTM" : "Scorpion",
+        "artistMTM" : "Drake",
+        "durationMTM" : 289,
+        "fileNameMTM" : "After Dark.mp3",
+        "rankMTM" : "11",
+        "trackMTM" : "After Dark"
+      },
+      {
+        "albumMTM" : "Scorpion",
+        "artistMTM" : "Drake",
+        "durationMTM" : 162,
+        "fileNameMTM" : "Blue Tint.mp3",
+        "rankMTM" : "8",
+        "trackMTM" : "Blue Tint"
+      },
+      {
+        "albumMTM" : "Scorpion",
+        "artistMTM" : "Drake",
+        "durationMTM" : 164,
+        "fileNameMTM" : "Can't Take a Joke.mp3",
+        "rankMTM" : "9",
+        "trackMTM" : "Can't Take a Joke"
+      },
+      {
+        "albumMTM" : "Scorpion",
+        "artistMTM" : "Drake",
+        "durationMTM" : 245,
+        "fileNameMTM" : "Don't Matter To Me.mp3",
+        "rankMTM" : "10",
+        "trackMTM" : "Don't Matter To Me"
+      },
+      {
+        "albumMTM" : "Scorpion",
+        "artistMTM" : "Drake",
+        "durationMTM" : 184,
+        "fileNameMTM" : "Elevate.mp3",
+        "rankMTM" : "3",
+        "trackMTM" : "Elevate"
+      },
+      {
+        "albumMTM" : "Scorpion",
+        "artistMTM" : "Drake",
+        "durationMTM" : 302,
+        "fileNameMTM" : "Emotionless.mp3",
+        "rankMTM" : "4",
+        "trackMTM" : "Emotionless"
+      },
+      {
+        "albumMTM" : "Scorpion",
+        "artistMTM" : "Drake",
+        "durationMTM" : 220,
+        "fileNameMTM" : "Final Fantasy.mp3",
+        "rankMTM" : "12",
+        "trackMTM" : "Final Fantasy"
+      },
+      {
+        "albumMTM" : "Scorpion",
+        "artistMTM" : "Drake",
+        "durationMTM" : 182,
+        "fileNameMTM" : "Finesse.mp3",
+        "rankMTM" : "5",
+        "trackMTM" : "Finesse"
+      },
+      {
+        "albumMTM" : "Scorpion",
+        "artistMTM" : "Drake",
+        "durationMTM" : 199,
+        "fileNameMTM" : "God's Plan.mp3",
+        "rankMTM" : "5",
+        "trackMTM" : "God's Plan"
+      },
+      {
+        "albumMTM" : "Scorpion",
+        "artistMTM" : "Drake",
+        "durationMTM" : 214,
+        "fileNameMTM" : "I'm Upset.mp3",
+        "rankMTM" : "6",
+        "trackMTM" : "I'm Upset"
+      },
+      {
+        "albumMTM" : "Scorpion",
+        "artistMTM" : "Drake",
+        "durationMTM" : 217,
+        "fileNameMTM" : "In My Feelings.mp3",
+        "rankMTM" : "9",
+        "trackMTM" : "In My Feelings"
+      },
+      {
+        "albumMTM" : "Scorpion",
+        "artistMTM" : "Drake",
+        "durationMTM" : 226,
+        "fileNameMTM" : "Is There More.mp3",
+        "rankMTM" : "12",
+        "trackMTM" : "Is There More"
+      },
+      {
+        "albumMTM" : "Scorpion",
+        "artistMTM" : "Drake",
+        "durationMTM" : 262,
+        "fileNameMTM" : "Jaded.mp3",
+        "rankMTM" : "3",
+        "trackMTM" : "Jaded"
+      },
+      {
+        "albumMTM" : "Scorpion",
+        "artistMTM" : "Drake",
+        "durationMTM" : 309,
+        "fileNameMTM" : "March 14.mp3",
+        "rankMTM" : "13",
+        "trackMTM" : "March 14"
+      },
+      {
+        "albumMTM" : "Scorpion",
+        "artistMTM" : "Drake",
+        "durationMTM" : 205,
+        "fileNameMTM" : "Mob Ties.mp3",
+        "rankMTM" : "8",
+        "trackMTM" : "Mob Ties"
+      },
+      {
+        "albumMTM" : "Scorpion",
+        "artistMTM" : "Drake",
+        "durationMTM" : 211,
+        "fileNameMTM" : "Nice for What.mp3",
+        "rankMTM" : "4",
+        "trackMTM" : "Nice for What"
+      },
+      {
+        "albumMTM" : "Scorpion",
+        "artistMTM" : "Drake",
+        "durationMTM" : 238,
+        "fileNameMTM" : "Nonstop.mp3",
+        "rankMTM" : "2",
+        "trackMTM" : "Nonstop"
+      },
+      {
+        "albumMTM" : "Scorpion",
+        "artistMTM" : "Drake",
+        "durationMTM" : 206,
+        "fileNameMTM" : "Peak.mp3",
+        "rankMTM" : "1",
+        "trackMTM" : "Peak"
+      },
+      {
+        "albumMTM" : "Scorpion",
+        "artistMTM" : "Drake",
+        "durationMTM" : 207,
+        "fileNameMTM" : "Ratchet Happy Birthday.mp3",
+        "rankMTM" : "6",
+        "trackMTM" : "Ratchet Happy Birthday"
+      },
+      {
+        "albumMTM" : "Scorpion",
+        "artistMTM" : "Drake",
+        "durationMTM" : 216,
+        "fileNameMTM" : "Sandra's Rose.mp3",
+        "rankMTM" : "10",
+        "trackMTM" : "Sandra's Rose"
+      },
+      {
+        "albumMTM" : "Scorpion",
+        "artistMTM" : "Drake",
+        "durationMTM" : 247,
+        "fileNameMTM" : "Summer Games.mp3",
+        "rankMTM" : "2",
+        "trackMTM" : "Summer Games"
+      },
+      {
+        "albumMTM" : "Scorpion",
+        "artistMTM" : "Drake",
+        "durationMTM" : 136,
+        "fileNameMTM" : "Survival.mp3",
+        "rankMTM" : "1",
+        "trackMTM" : "Survival"
+      },
+      {
+        "albumMTM" : "Scorpion",
+        "artistMTM" : "Drake",
+        "durationMTM" : 223,
+        "fileNameMTM" : "Talk Up.mp3",
+        "rankMTM" : "11",
+        "trackMTM" : "Talk Up"
+      },
+      {
+        "albumMTM" : "Scorpion",
+        "artistMTM" : "Drake",
+        "durationMTM" : 157,
+        "fileNameMTM" : "That's How You Feel.mp3",
+        "rankMTM" : "7",
+        "trackMTM" : "That's How You Feel"
+      }
+    ]
+  },
+  {
+    "artistMTM" : "Drake",
+    "genresMTM" : [ "rap", "Hip-Hop", "2016", "hip hop", "Drake" ],
+    "imageMTM" : "https://lastfm.freetls.fastly.net/i/u/300x300/b04745bef612d93a78a6c336eef830c8.png",
+    "nameMTM" : "Views",
+    "runTimeMTM" : "01:20:56",
+    "summaryMTM" : "Views is the fourth studio album by Canadian rapper Drake. It was released on Friday 29 April 2016. The album cover features Drake seating on top of Toronto's iconic CN Tower. It was shot by Toronto photographer Caitlin Cronenberg.\n\nThe promotional artworks used for the single \"Summer Sixteen\" and the visual teasers for the advertising campaign of \"Views From The 6\" were designed by Filip Pagowski, the artist who is also behind the Play logo for iconic Japanese fashion brand Comme des Garçons. <a href=\"http://www.last.fm/music/Drake/Views\">Read more on Last.fm</a>.",
+    "tracksMTM" : 
+    [
+      {
+        "albumMTM" : "",
+        "artistMTM" : "Drake",
+        "durationMTM" : 256,
+        "fileNameMTM" : "",
+        "rankMTM" : "2",
+        "trackMTM" : "9"
+      },
+      {
+        "albumMTM" : "",
+        "artistMTM" : "Drake",
+        "durationMTM" : 241,
+        "fileNameMTM" : "",
+        "rankMTM" : "14",
+        "trackMTM" : "Childs Play"
+      },
+      {
+        "albumMTM" : "",
+        "artistMTM" : "Drake",
+        "durationMTM" : 245,
+        "fileNameMTM" : "",
+        "rankMTM" : "11",
+        "trackMTM" : "Controlla"
+      },
+      {
+        "albumMTM" : "",
+        "artistMTM" : "Drake",
+        "durationMTM" : 284,
+        "fileNameMTM" : "",
+        "rankMTM" : "9",
+        "trackMTM" : "Faithful"
+      },
+      {
+        "albumMTM" : "",
+        "artistMTM" : "Drake",
+        "durationMTM" : 241,
+        "fileNameMTM" : "",
+        "rankMTM" : "4",
+        "trackMTM" : "Feel No Ways"
+      },
+      {
+        "albumMTM" : "",
+        "artistMTM" : "Drake",
+        "durationMTM" : 238,
+        "fileNameMTM" : "",
+        "rankMTM" : "18",
+        "trackMTM" : "Fire & Desire"
+      },
+      {
+        "albumMTM" : "",
+        "artistMTM" : "Drake",
+        "durationMTM" : 220,
+        "fileNameMTM" : "",
+        "rankMTM" : "13",
+        "trackMTM" : "Grammys"
+      },
+      {
+        "albumMTM" : "",
+        "artistMTM" : "Drake",
+        "durationMTM" : 324,
+        "fileNameMTM" : "",
+        "rankMTM" : "1",
+        "trackMTM" : "Keep the Family Close"
+      },
+      {
+        "albumMTM" : "",
+        "artistMTM" : "Drake",
+        "durationMTM" : 175,
+        "fileNameMTM" : "",
+        "rankMTM" : "12",
+        "trackMTM" : "One Dance"
+      },
+      {
+        "albumMTM" : "",
+        "artistMTM" : "Drake",
+        "durationMTM" : 212,
+        "fileNameMTM" : "",
+        "rankMTM" : "15",
+        "trackMTM" : "Pop Style"
+      },
+      {
+        "albumMTM" : "",
+        "artistMTM" : "Drake",
+        "durationMTM" : 333,
+        "fileNameMTM" : "",
+        "rankMTM" : "7",
+        "trackMTM" : "Redemption"
+      },
+      {
+        "albumMTM" : "",
+        "artistMTM" : "Drake",
+        "durationMTM" : 189,
+        "fileNameMTM" : "",
+        "rankMTM" : "10",
+        "trackMTM" : "Still Here"
+      },
+      {
+        "albumMTM" : "",
+        "artistMTM" : "Drake",
+        "durationMTM" : 106,
+        "fileNameMTM" : "",
+        "rankMTM" : "17",
+        "trackMTM" : "Summers Over (Interlude)"
+      },
+      {
+        "albumMTM" : "",
+        "artistMTM" : "Drake",
+        "durationMTM" : 263,
+        "fileNameMTM" : "",
+        "rankMTM" : "16",
+        "trackMTM" : "Too Good"
+      },
+      {
+        "albumMTM" : "Views",
+        "artistMTM" : "Drake",
+        "durationMTM" : 291,
+        "fileNameMTM" : "U With Me?.mp3",
+        "rankMTM" : "3",
+        "trackMTM" : "U With Me?"
+      },
+      {
+        "albumMTM" : "",
+        "artistMTM" : "Drake",
+        "durationMTM" : 311,
+        "fileNameMTM" : "",
+        "rankMTM" : "19",
+        "trackMTM" : "VIEWS"
+      },
+      {
+        "albumMTM" : "",
+        "artistMTM" : "Drake",
+        "durationMTM" : 254,
+        "fileNameMTM" : "",
+        "rankMTM" : "6",
+        "trackMTM" : "Weston Road Flows"
+      },
+      {
+        "albumMTM" : "",
+        "artistMTM" : "Drake",
+        "durationMTM" : 195,
+        "fileNameMTM" : "",
+        "rankMTM" : "8",
+        "trackMTM" : "With You"
+      }
+    ]
+  }
+]
